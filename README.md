@@ -1,4 +1,4 @@
-# Module 2 Fundamentals of Classes and Objects Demos
+# Module 3 Using the Debugger
 
 ## Getting Started:
 
